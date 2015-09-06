@@ -30,3 +30,18 @@
 
 # Debug files
 *.dSYM/
+
+# Espressif SDK folders
+bin/*
+document/*
+examples/*
+lib/*
+tools/*
+include/*
+ld/*
+
+# Backups 
+*~
+
+# Misc
+**/.*
