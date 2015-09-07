@@ -45,3 +45,6 @@ ld/*
 
 # Misc
 **/.*
+
+# Custom defines header file
+app/include/custom_defines.h
